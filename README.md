@@ -18,7 +18,9 @@ Interactive Power BI dashboard analyzing 119,000+ hotel booking records to uncov
 
 ## 📈 Dashboard Features
 
-![Dashboard Overview](Overview.png)
+<p align="right">
+  <img src="Overview.PNG" width="800" alt="E-commerce Marketing KPIs Dashboard"/>
+</p>
 
 ### Key Metrics Tracked
 - Total Revenue & ADR (Average Daily Rate)
