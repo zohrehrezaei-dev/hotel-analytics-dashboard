@@ -30,10 +30,10 @@ Interactive Power BI dashboard analyzing 119,000+ hotel booking records to uncov
 - Seasonal Trends
 
 <p align="center">
-  <img "Cancellation.PNG" width="800">
+  <img src="Cancellation.PNG" width="800">
 </p>
 <p align="center">
-  <img src="(Geographic.PNG" width="800">
+  <img src="Geographic.PNG" width="800">
 </p>
 <p align="center">
   <img src="Temporal.PNG" width="800">
