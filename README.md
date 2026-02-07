@@ -18,7 +18,7 @@ Interactive Power BI dashboard analyzing 119,000+ hotel booking records to uncov
 
 ## 📈 Dashboard Features
 
-<p align="right">
+<p align="center">
   <img src="Overview.PNG" width="800" alt="E-commerce Marketing KPIs Dashboard"/>
 </p>
 
@@ -29,8 +29,12 @@ Interactive Power BI dashboard analyzing 119,000+ hotel booking records to uncov
 - Geographic Distribution
 - Seasonal Trends
 
-![Key Metrics](Cancellation.png)
-![Key Metrics](Geographic.png)
+<p align="center">
+  <img src="(Cancellation.PNG" width="800" alt="E-commerce Marketing KPIs Dashboard"/>
+</p>
+<p align="center">
+  <img src="(Geographic.PNG" width="800" alt="E-commerce Marketing KPIs Dashboard"/>
+</p>
 <p align="center">
   <img src="Temporal.PNG" width="800" alt="E-commerce Marketing KPIs Dashboard"/>
 </p>
