@@ -11,14 +11,14 @@ Interactive Power BI dashboard analyzing 119,000+ hotel booking records to uncov
 
 ## 🎯 Key Insights
 
-- Identified X% cancellation rate with [specific pattern]
-- Discovered top customer segments contributing to Y% of revenue
-- Found seasonal trends showing [peak booking periods]
-- Analyzed Z countries representing [X%] of total bookings
+- Identified 35.38% cancellation rate with customers from the Online TA market segment
+- Discovered top customer segment (Online Travel Agencies (TA)) contributing to 64.6% of revenue
+- Found seasonal trends showing summer and spring as peak booking periods
+- Analyzed 10 countries representing 93% of total bookings
 
 ## 📈 Dashboard Features
 
-![Dashboard Overview](dashboard_overview.png)
+![Dashboard Overview](Overview.png)
 
 ### Key Metrics Tracked
 - Total Revenue & ADR (Average Daily Rate)
@@ -27,15 +27,15 @@ Interactive Power BI dashboard analyzing 119,000+ hotel booking records to uncov
 - Geographic Distribution
 - Seasonal Trends
 
-![Key Metrics](key_metrics.png)
+![Key Metrics](Cancellation.png)
+![Key Metrics](Geographic.png)
+![Key Metrics](Temporal.png)
 
 ### Analysis Highlights
 - Customer segment performance
 - Cancellation pattern analysis by lead time
 - Revenue trends by hotel type & season
 - Market segment effectiveness
-
-![Insights](insights.png)
 
 ## 🛠️ Technical Implementation
 
@@ -51,4 +51,4 @@ Interactive Power BI dashboard analyzing 119,000+ hotel booking records to uncov
 - Custom visuals for trend analysis
 - Responsive layout optimized for insights delivery
 
-## 📁 Project Structure
+
