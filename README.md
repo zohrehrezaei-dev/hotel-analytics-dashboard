@@ -29,8 +29,7 @@ Interactive Power BI dashboard analyzing 119,000+ hotel booking records to uncov
 
 ![Key Metrics](Cancellation.png)
 ![Key Metrics](Geographic.png)
-![Key Metrics](Temporal.png)
-
+https://github.com/zohrehrezaei-dev/hotel-analytics-dashboard/blob/main/Temporal.PNG
 ### Analysis Highlights
 - Customer segment performance
 - Cancellation pattern analysis by lead time
